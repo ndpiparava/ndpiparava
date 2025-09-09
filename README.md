@@ -2,11 +2,11 @@
 
 ### 🚀 Mobile & Frontend Developer  
 
-💼 I’m currently working at [Yara](https://yaraplus.de/)  
+💼 I am currently working at [Yara](https://yaraplus.de/)  
 ⚡  I specialise in building **user-friendly and performan mobile applications**   
 ✉️ Reach me at **ndpiparava@gmail.com**  
 
----
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -59,8 +59,8 @@
 </tr>
 </table>
 
-----
-### 📱 Projects
+
+# 📱 Projects
 
 <table>
 <tr>
