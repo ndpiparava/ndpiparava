@@ -77,4 +77,32 @@
 ----
 ### 📱 Projects
 
-[![Chronext](assets/images/apps/chronext.png)](https://apps.apple.com/de/app/chronext/id1585964281)  [![YaraPlus](assets/images/apps/yaraplus.png)](https://apps.apple.com/de/app/yaraplus/id6474149081) [![Celebrate](assets/images/apps/celebrate.png)](https://apps.apple.com/de/app/celebrate-teile-fotos-video/id1453163913)  [![Webex](assets/images/apps/webex.png)](https://apps.apple.com/de/app/webex/id833967564)
+<table>
+<tr>
+  <td align="center">
+    <a href="https://apps.apple.com/de/app/chronext/id1585964281">
+      <img src="assets/images/apps/chronext.png" width="40"><br>
+      Chronext
+    </a>
+  </td>
+  <td align="center">
+    <a href="https://apps.apple.com/de/app/yaraplus/id6474149081">
+      <img src="assets/images/apps/yaraplus.png" width="40"><br>
+      YaraPlus
+    </a>
+  </td>
+  <td align="center">
+    <a href="https://apps.apple.com/de/app/celebrate-teile-fotos-video/id1453163913">
+      <img src="assets/images/apps/celebrate.png" width="40"><br>
+      Celebrate
+    </a>
+  </td>
+  <td align="center">
+    <a href="https://apps.apple.com/de/app/webex/id833967564">
+      <img src="assets/images/apps/webex.png" width="40"><br>
+      Webex
+    </a>
+  </td>
+</tr>
+</table>
+
